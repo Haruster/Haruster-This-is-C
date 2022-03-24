@@ -1,2 +1,2 @@
-# Apasys-This-is-C
+# Haruster-This-is-C
 C Programming
